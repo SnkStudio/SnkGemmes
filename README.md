@@ -83,6 +83,7 @@ Les 21 outils ont leurs propres textures en 32 × 32, et le menu admin sa propre
 | **Facultatif** | Vault et une économie, pour la vente de la houe |
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkInterface](https://github.com/SnkStudio/SnkInterface)** : chat, TAB, tableau, hologrammes et menus
 - **[SnkCosmetiques](https://github.com/SnkStudio/SnkCosmetiques)** : chapeaux, masques, ailes et compagnons en 3D
 - **[SnkPass](https://github.com/SnkStudio/SnkPass)** : un pass de saison où l'on gagne les outils en gemme
 - **[SnkBoutiques](https://github.com/SnkStudio/SnkBoutiques)** : boutiques-coffres des joueurs, pour revendre ses outils
