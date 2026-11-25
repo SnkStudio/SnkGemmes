@@ -83,6 +83,7 @@ Les 21 outils ont leurs propres textures en 32 × 32, et le menu admin sa propre
 | **Facultatif** | Vault et une économie, pour la vente de la houe |
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkQuetes](https://github.com/SnkStudio/SnkQuetes)** : des outils en gemme à gagner en récompense
 - **[SnkPNJ](https://github.com/SnkStudio/SnkPNJ)** : des personnages avec dialogues, qui peuvent porter les outils en gemme
 - **[SnkInterface](https://github.com/SnkStudio/SnkInterface)** : chat, TAB, tableau, hologrammes et menus
 - **[SnkCosmetiques](https://github.com/SnkStudio/SnkCosmetiques)** : chapeaux, masques, ailes et compagnons en 3D
