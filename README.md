@@ -83,6 +83,7 @@ Les 21 outils ont leurs propres textures en 32 × 32, et le menu admin sa propre
 | **Facultatif** | Vault et une économie, pour la vente de la houe |
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkBoutiques](https://github.com/SnkStudio/SnkBoutiques)** : boutiques-coffres des joueurs, pour revendre ses outils
 - **[SnkMarche](https://github.com/SnkStudio/SnkMarche)** : boutique, promos et hôtel des ventes
 - **[SnkClans](https://github.com/SnkStudio/SnkClans)** : clans, territoire et guerres
 
